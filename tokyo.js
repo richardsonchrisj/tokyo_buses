@@ -1,4 +1,4 @@
-mapboxgl.accessToken = '${{secret.MAPBOX_KEY}}';
+mapboxgl.accessToken = `${{secret.MAPBOX_KEY}}`;
 
 // This is the map instance of Japan Rail centered on Tokyo
 let map = new mapboxgl.Map({
@@ -13,7 +13,7 @@ let busList = []
 
 //run once to get buses
 function getBuses() {
-    fetchPromise = fetch("https://api-tokyochallenge.odpt.org/api/v4/%22odpt:Bus?acl:consumerKey=${{secret.TOKYO_KEY}}");
+    fetchPromise = fetch(`https://api-tokyochallenge.odpt.org/api/v4/%22odpt:Bus?acl:consumerKey=${{secret.TOKYO_KEY}}`);
 
     fetchPromise.then(response => {
         return response.json();
