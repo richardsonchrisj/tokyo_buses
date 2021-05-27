@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoicmljaGFyZHNvbmNocmlzaiIsImEiOiJja29ub3VtNHYwMnpiMnBvaG5vY2xhNTJiIn0.4Twbro-jb1XxE4KnSrR47g';
+mapboxgl.accessToken = '${{secret.MAPBOX_KEY}}';
 
 // This is the map instance of Japan Rail centered on Tokyo
 let map = new mapboxgl.Map({
