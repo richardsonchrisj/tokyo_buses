@@ -10,23 +10,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/richardsonchrisj/pacmen">
+  <a href="https://github.com/richardsonchrisj/tokyo_buses">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">pacmen</h3>
+  <h3 align="center">tokyo_buses</h3>
 
   <p align="center">
-   A factory for pacmen to take over your web browser one click at a time!
+   A factory for tokyo_buses to take over your web browser one click at a time!
     <br />
-    <a href="https://github.com/richardsonchrisj/pacmen"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/richardsonchrisj/tokyo_buses"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/richardsonchrisj/pacmen">View Demo</a>
+    <a href="https://github.com/richardsonchrisj/tokyo_buses">View Demo</a>
     ·
-    <a href="https://github.com/richardsonchrisj/pacmen/issues">Report Bug</a>
+    <a href="https://github.com/richardsonchrisj/tokyo_buses/issues">Report Bug</a>
     ·
-    <a href="https://github.com/richardsonchrisj/pacmen/issues">Request Feature</a>
+    <a href="https://github.com/richardsonchrisj/tokyo_buses/issues">Request Feature</a>
   </p>
 </p>
 
@@ -56,7 +56,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://chrisrichardson.dev)
 
-This PacMan factory was made as part of the MIT Professional Certificate in Coding: Full Stack Development with MERN. It creates PacMen and bounces them around your screen.
+This is a map of Tokyo's buses made as part of the MIT Professional Certificate in Coding: Full Stack Development with MERN. It creates numbered bus markers and updates every 10 seconds.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -67,13 +67,13 @@ You can download the html and associated files or simply add the code to your we
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/richardsonchrisj_/pacmen.git
+   git clone https://github.com/richardsonchrisj_/tokyo_buses.git
    ```
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/richardsonchrisj/pacmen/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/richardsonchrisj/tokyo_buses/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -96,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Chris Richardson - [@CRichardsonDev](https://twitter.com/CRichardsonDev) - chris@chrisrichardson.dev
 
-Project Link: [https://github.com/richardsonchrisj/pacmen](https://github.com/richardsonchrisj/pacmen)
+Project Link: [https://github.com/richardsonchrisj/tokyo_buses](https://github.com/richardsonchrisj/tokyo_buses)
 
 
 
@@ -108,16 +108,16 @@ Project Link: [https://github.com/richardsonchrisj/pacmen](https://github.com/ri
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/richardsonchrisj/pacmen.svg?style=for-the-badge
-[contributors-url]: https://github.com/richardsonchrisj/pacmen/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/richardsonchrisj/pacmen.svg?style=for-the-badge
-[forks-url]: https://github.com/richardsonchrisj/pacmen/network/members
-[stars-shield]: https://img.shields.io/github/stars/richardsonchrisj/pacmen.svg?style=for-the-badge
-[stars-url]: https://github.com/richardsonchrisj/pacmen/stargazers
-[issues-shield]: https://img.shields.io/github/issues/richardsonchrisj/pacmen.svg?style=for-the-badge
-[issues-url]: https://github.com/richardsonchrisj/pacmen/issues
-[license-shield]: https://img.shields.io/github/license/richardsonchrisj/pacmen.svg?style=for-the-badge
-[license-url]: https://github.com/richardsonchrisj/pacmen/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/richardsonchrisj/tokyo_buses.svg?style=for-the-badge
+[contributors-url]: https://github.com/richardsonchrisj/tokyo_buses/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/richardsonchrisj/tokyo_buses.svg?style=for-the-badge
+[forks-url]: https://github.com/richardsonchrisj/tokyo_buses/network/members
+[stars-shield]: https://img.shields.io/github/stars/richardsonchrisj/tokyo_buses.svg?style=for-the-badge
+[stars-url]: https://github.com/richardsonchrisj/tokyo_buses/stargazers
+[issues-shield]: https://img.shields.io/github/issues/richardsonchrisj/tokyo_buses.svg?style=for-the-badge
+[issues-url]: https://github.com/richardsonchrisj/tokyo_buses/issues
+[license-shield]: https://img.shields.io/github/license/richardsonchrisj/tokyo_buses.svg?style=for-the-badge
+[license-url]: https://github.com/richardsonchrisj/tokyo_buses/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/richardsonchrisj
 [product-screenshot]: images/screenshot.png
