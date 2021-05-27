@@ -14,7 +14,7 @@ let map = new mapboxgl.Map({
 });
 
 
-const fetchPromise = fetch("http://developer.itsmarta.com/BRDRestService/RestBusRealTimeService/GetAllBus/");
+const fetchPromise = fetch("http://developer.itsmarta.com/BRDRestService/RestBusRealTimeService/GetAllBus");
 fetchPromise.then(response => {
-    console.log(response);
+    console.log(response)
 });
