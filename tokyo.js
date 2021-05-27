@@ -13,7 +13,7 @@ let busList = []
 
 //run once to get buses
 function getBuses() {
-    fetchPromise = fetch("https://api-tokyochallenge.odpt.org/api/v4/%22odpt:Bus?acl:consumerKey=RIwJ83sfSn8q_F_xBUkSVDScHYotKP8BQKT_0gT6EyM");
+    fetchPromise = fetch("https://api-tokyochallenge.odpt.org/api/v4/%22odpt:Bus?acl:consumerKey=${{secret.TOKYO_KEY}}");
 
     fetchPromise.then(response => {
         return response.json();
