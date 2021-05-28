@@ -5,13 +5,11 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/richardsonchrisj/tokyo_buses">
-    <img src="images/logo.png" alt="Logo">
+    <img src="images/logo.png" alt="Logo" width="100px" height="100px">
   </a>
 
   <h3 align="center">tokyo_buses</h3>
@@ -98,16 +96,14 @@ Chris Richardson - [@CRichardsonDev](https://twitter.com/CRichardsonDev) - chris
 
 Project Link: [https://github.com/richardsonchrisj/tokyo_buses](https://github.com/richardsonchrisj/tokyo_buses)
 
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
 * [Img Shields](https://shields.io)
 * [Mapbox](https://mapbox.com)
 * [Tokyo Challenge](https://tokyochallenge.odpt.org/en/index.html.com)
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
