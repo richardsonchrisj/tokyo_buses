@@ -15,7 +15,7 @@
   <h3 align="center">tokyo_buses</h3>
 
   <p align="center">
-   A factory for tokyo_buses to take over your web browser one click at a time!
+   Check where buses around Tokyo are at the moment. Coming soon: planes and trains. 
     <br />
     <a href="https://github.com/richardsonchrisj/tokyo_buses"><strong>Explore the docs »</strong></a>
     <br />
