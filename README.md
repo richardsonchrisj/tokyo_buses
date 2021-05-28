@@ -11,7 +11,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/richardsonchrisj/tokyo_buses">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">tokyo_buses</h3>
@@ -102,9 +102,12 @@ Project Link: [https://github.com/richardsonchrisj/tokyo_buses](https://github.c
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
+* [Img Shields](https://shields.io)
+* [Mapbox](https://mapbox.com)
+* [Tokyo Challenge](https://tokyochallenge.odpt.org/en/index.html.com)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
