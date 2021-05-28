@@ -1,11 +1,12 @@
+// This is the map instance centered on Tokyo
 mapboxgl.accessToken = "pk.eyJ1IjoicmljaGFyZHNvbmNocmlzaiIsImEiOiJja29ub3RpcDAwMzAwMnJvaDhrMmo0cjdxIn0.wbl9nYD0s0NUEHv9cBEs2A";
-
-// This is the map instance of Japan Rail centered on Tokyo
 let map = new mapboxgl.Map({
     container: 'map', // container ID
-    style: 'mapbox://styles/mapbox/dark-v10', // style URL
     center: [139.76842272980838, 35.680995983317494], // starting position [lng, lat]
-    zoom: 10 // starting zoom
+    style: 'mapbox://styles/mapbox/dark-v10', // style URL
+    pitch: 60,
+    bearing: -60,
+    zoom: 11
 });
 
 //run once to get buses
@@ -40,6 +41,7 @@ function getBuses() {
         }
     })
 }
+
 
 let run = setInterval(() => {
     console.log(map);

@@ -15,3 +15,9 @@ body {
     left: 0;
     padding: 10px;
 }
+
+.marker{
+    background-image: url('icon.png');
+    background-size: cover;
+    cursor: pointer;
+}
